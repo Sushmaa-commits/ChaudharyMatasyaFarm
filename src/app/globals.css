@@ -1,33 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+  --navbar-height: 80px;
+  --horizontal-padding: 70px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+html,
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  /* font-family: 'Manrope', system-ui, sans-serif; */
+  background-color: #f8f8f8;
+  font-family: 'Inter', sans-serif;
+}
+
+.content-grid {
+  --content-max-width: 85rem;
+}
+
+.title {
+  background: linear-gradient(
+    180deg,
+    rgba(74, 108, 247, 0.4),
+    rgba(74, 108, 247, 0)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  opacity: 0.2;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  --tw-translate-x: -50%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1 !important;
+}
+
+@media (min-width: 1024px) {
+  .title {
+    font-size: 95px;
   }
 }
-
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+@media (min-width: 540px) {
+  .title {
+    font-size: 60px;
   }
 }

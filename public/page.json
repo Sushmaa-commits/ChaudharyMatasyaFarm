@@ -1,0 +1,33 @@
+{
+  "chaudhary-matasya-farm": {
+    "banner": {
+      "title": "Welcome to Chaudhary Matasya Farm",
+      "description": "Established in 1992, we're a leading name in Nepal's aquaculture sector. With expertise honed through decades of experience, we pride ourselves on delivering top-quality fish products to our customers. Our farm, nestled in Sunsari District, boasts over 15 meticulously crafted ponds, where we breed a diverse range of fish species including Rahu, Naini, Grass Crap, Common Crap, Silver Crap, Bhakur, Bighead and Tilapia(kotri). At Chaudhary Matasya Farm, excellence is not just a goal; it's our commitment to you.",
+      "image": "assets/img/home-banner.png"
+    },
+    "about_section": {
+      "title": "Who We Are",
+      "subtitle": "Cultivating Excellence in Aquaculture: The Story of Chaudhary Matasya Farm",
+      "description": "In 1992, inspired by a vision to revolutionize aquaculture practices in Nepal, our founder embarked on a transformative journey into the realm of fish farming. Trained under the auspices of the Nepalese Government in Bangladesh, he imbibed the intricacies of aquaculture, mastering the art of fish breeding and husbandry.",
+      "image": "assets/img/about/1.jpg"
+    },
+
+    "portfolio_section": {
+      "title": "Check our portfolio",
+      "images": [
+        "assets/img/about/travelbangla.jpg",
+        "assets/img/portfolio/01.jpg",
+        "assets/img/about/1.jpg",
+        "assets/img/portfolio/5.jpg",
+        "assets/img/portfolio/9.jpg",
+        "assets/img/portfolio/4.jpg",
+        "assets/img/portfolio/11.jpg",
+        "assets/img/portfolio/13.jpg",
+        "assets/img/portfolio/10.jpg",
+        "assets/img/portfolio/8.jpg",
+        "assets/img/portfolio/5.jpg",
+        "assets/img/portfolio/pond.jpg"
+      ]
+    }
+  }
+}

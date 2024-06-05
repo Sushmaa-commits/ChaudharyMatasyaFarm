@@ -1,0 +1,36 @@
+{
+  "about": {
+    "title": "Our Story/Who we are",
+    "description": [
+      "Established in 1992 by Mr. Shyam Sundar Chaudhary, Chaudhary Matasya Farm revolutionized aquaculture in Nepal. Trained in Bangladesh under the Nepalese Government, Mr. Chaudhary brought back expertise in fish breeding and husbandry.",
+      "Our farm, situated in Gadi-2, Bhamari Bajar, in the Sunsari District, features over 15 meticulously crafted ponds that nurture a diverse range of aquatic life. Equipped with our own hatcheries, we ensure the health and vitality of hatchlings from birth, fostering biodiversity with species like Rahu, Naini, Bhakur, Grass, Common, and Silver Carp.",
+      "Driven by a commitment to quality and innovation, we've earned recognition as a leader in aquaculture, staying true to our founder's vision while pushing boundaries."
+    ],
+    "images": ["/assets/img/about/about-1.jpg", "/assets/img/about/about-2.jpg"]
+  },
+
+  "mission": {
+    "title": "Our Mission",
+    "description": [
+      "Our mission is to supply high-quality baby fish, including hatchlings (recently hatched) and fingerlings (fish of varying sizes), at suitable prices throughout Nepal.",
+      "We are dedicated to supporting the growth of aquaculture by providing excellent products and services that meet the needs of fish farmers and enthusiasts alike.",
+      "Our goal is to promote sustainable fish farming practices, ensuring a thriving aquaculture industry in Nepal."
+    ],
+    "images": [
+      "/assets/img/about/mission-1.jpg",
+      "/assets/img/about/mission-2.jpg"
+    ]
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": [
+      "Our vision is to be a leading force in the aquaculture industry, recognized for our commitment to quality and innovation.",
+      "We aim to set a benchmark for excellence in fish farming, inspiring others to adopt sustainable and effective practices.",
+      "Through our dedicated efforts and adherence to our core values, we envision a future where our work significantly contributes to the well-being and prosperity of communities across Nepal and beyond."
+    ],
+    "images": [
+      "/assets/img/about/vision-1.jpg",
+      "/assets/img/about/vision-2.jpg"
+    ]
+  }
+}

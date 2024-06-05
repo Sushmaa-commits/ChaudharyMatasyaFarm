@@ -1,0 +1,31 @@
+{
+  "title": "Comprehensive Aquaculture Services",
+  "description": "Expert Breeding, Consultation, and Transportation Solutions to Enhance Your Fish Farming Operations",
+  "services": [
+    {
+      "icon": "/assets/img/service/oxygenpackaging.png",
+      "title": "Oxygen Packing",
+      "description": "To facilitate the safe transportation of our fish to customers across Nepal, we provide oxygen packing services. Our specialized packaging ensures that the fish receive an adequate supply of oxygen during transit, maintaining their health and freshness upon arrival."
+    },
+    {
+      "icon": "/assets/img/service/fishselection.png",
+      "title": "Fish Selection",
+      "description": "Choose from a variety of small fish with different sizes and rate varieties. Our selection includes a diverse range of species to suit your preferences and needs."
+    },
+    {
+      "icon": "/assets/img/service/breeding.png",
+      "title": "Breeding Services",
+      "description": "We offer professional breeding services for customers interested in starting their own aquaculture ventures. Our experienced team provides guidance and support throughout the breeding process to ensure successful outcomes."
+    },
+    {
+      "icon": "/assets/img/service/fish.png",
+      "title": "Quality Baby Fish",
+      "description": "At Chaudhary Matasya Farm, we take pride in offering high-quality baby fish at minimal prices. Our commitment to excellence means that you can trust the health and vitality of our fish, without compromising your budget."
+    },
+    {
+      "icon": "/assets/img/service/consulting.png",
+      "title": "Consulting",
+      "description": "Our founder himself is available for consulting services, providing expert advice on aquaculture practices, pond management, and sustainable fish farming techniques. Whether you're a novice or experienced fish farmer, we're here to support your success."
+    }
+  ]
+}
